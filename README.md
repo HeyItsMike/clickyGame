@@ -21,3 +21,5 @@ Steps to create React app.
 
 "npx create-react-app my-app" put in terminal to create react app
 yarn start to run app
+
+to preview React app simply "yarn start" and navigate to localhost.com/3000
